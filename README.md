@@ -11,14 +11,14 @@ Below is a list of planned projects that I will be undertaking as part of my Jav
 **Project 1: Simple Console Application - Contact Management**
 
 * **Description:** A console application that allows adding, deleting, searching, and displaying contacts. Data is stored in memory only during application runtime.
-* **Repository:** [Link to Project 1 repository will be added here]
+* **Repository:** https://github.com/veern/java-contact-book
 
 ### Phase 2: Java - Intermediate Level
 
 **Project 2: Extended Console Application - To-Do List**
 
 * **Description:** A console application for managing tasks with descriptions, priorities, and deadlines, with the ability to save and load the task list to/from a file.
-* **Repository:** [Link to Project 2 repository will be added here]
+* **Repository:** https://github.com/veern/java-todo-list
 
 ### Phase 3: Introduction to Spring Framework (Spring Core / Spring Boot)
 
